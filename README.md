@@ -18,7 +18,7 @@
  - 确保 Python 环境已安装 Pillow 和 aiohttp
 
 #方法二: 
-在astrbot插件市场下载本插件
+ - 在astrbot插件市场下载本插件
 
 ## 使用说明
 
