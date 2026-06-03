@@ -7,3 +7,4 @@ repo: https://github.com/xqe-bkflda/astrbot_plugin_long_gif_converter
 astrbot_version: ">=4.16"
 support_platforms:
   - aiocqhttp
+  
