@@ -1,6 +1,6 @@
 name: astrbot_plugin_long_gif_converter
 display_name: 长GIF转换插件
-desc: 将多张图片等分裁剪后组合成多个GIF（支持命令自定义宽度）
+desc: 将多张图片等分裁剪后组合成多个GIF（支持自定义宽度）
 author: xqe-bkflda
 version: 2.0.0
 repo: https://github.com/xqe-bkflda/astrbot_plugin_long_gif_converter
