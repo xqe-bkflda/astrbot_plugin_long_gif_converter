@@ -25,7 +25,7 @@ MAX_TOTAL_DURATION = 60           # 总时长上限（秒）
 @register(
     "astrbot_plugin_long_gif_converter",
     "xqe-bkflda",
-    "将多张图片等分裁剪后组合成多个GIF（支持自定义宽度）",
+    "将多张图片等分裁剪后组合成多个GIF",
     "2.0.0",
     "https://github.com/xqe-bkflda/astrbot_plugin_long_gif_converter"
 )
