@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="assets/banner.png" alt="astrbot_plugin_long_gif_converter" width="100%">
+</div>
+
+<p align="center">
+[![AstrBot](https://img.shields.io/badge/AstrBot%20plugin-2A3B52?style=flat-square)](https://github.com/AstrBotDevs/AstrBot)
+  [![License](https://img.shields.io/badge/license-MIT-3DDC84?style=flat-square)](LICENSE)
+</p>
+
 # 长GIF转换插件 for AstrBot
 
 将多张图片等分裁剪后按列组合成多个GIF动画，支持自定义输出宽度、GIF数量和帧停留时间。
